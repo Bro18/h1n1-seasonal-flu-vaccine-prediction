@@ -49,16 +49,5 @@ X_test = pd.read_csv("test_set_features.csv", index_col="respondent_id")
 
 ## 📝 Dataset
 
-Data from [DrivenData](https://www.drivendata.org/) H1N1 and Seasonal Flu Vaccine Competition
+Data from [DrivenData]([https://www.drivendata.org/](https://www.drivendata.org/competitions/66/flu-shot-learning/data/)) H1N1 and Seasonal Flu Vaccine Competition
 
-## ✅ Next Steps
-
-- [ ] Try gradient boosting models (XGBoost, LightGBM)
-- [ ] Implement feature engineering
-- [ ] Test different imputation strategies
-- [ ] Hyperparameter tuning
-
----
-
-**Author**: Data Analysis Team  
-**Date**: February 2, 2026
